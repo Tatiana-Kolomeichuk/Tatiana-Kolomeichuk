@@ -66,20 +66,8 @@ Responsive web application for an animal shelter focused on pet adoption. Worked
 
 ---
 
-## 📣 Languages
-
-🇺🇦 Ukrainian — Native  
-🇬🇧 English — Elementary / Pre-Intermediate  
-🇷🇺 Russian — Fluent  
-
----
-
 ## 📫 Contact Me
 
 📧 Email: tany663@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/tetiana-kolomeichuk  
-🐙 GitHub: https://github.com/Tatiana-Kolomeichuk
 
-- Email: твій email
-- LinkedIn: твій LinkedIn
-- GitHub: https://github.com/Tatiana-Kolomeichuk
